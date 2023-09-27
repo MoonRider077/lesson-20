@@ -68,3 +68,12 @@
     padding-top: 64px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 411px) {
+    .fifth__section {
+        display: none;
+    }
+    .fifth__container {
+        display: none;
+    }
+}
